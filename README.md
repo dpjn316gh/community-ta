@@ -1,2 +1,2 @@
 # community-ta
-Repositorio para 
+Repositorio para temas de automatización
