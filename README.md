@@ -9,4 +9,5 @@ env/bin/activate
 
 ## Dependencias a instalar
 pip install -U selenium
+
 pip install webdriver-manager
